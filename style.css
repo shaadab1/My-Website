@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(rgb(102, 221, 236) 20%, pink 80%);
+}
+.topnav {
+    text-align: left;
+    background-color: aqua;
+}
+a {
+    padding: 50px;
+    font-size: 20px;
+    color: linear-gradient(rgba(125, 231, 152, 0.822) 20%, rgba(240, 137, 240, 0.801) 80%);
+    font-size: 40px;
+}
+#home {
+    background-image: linear-gradient(blue 0%, deeppink 100%);
+    margin: 100px;
+}
+#Website {
+    background-image: linear-gradient(rgba(125, 231, 152, 0.822) 20%, rgba(240, 137, 240, 0.801) 80%);
+}
